@@ -1,0 +1,41 @@
+body { 
+    background-color: black ;
+    margin: 0 auto 0 auto;
+    font-family: verdana, sans-serif;
+
+}
+
+hr {
+   color: white;
+   border-style: none;
+margin: 0 auto 0 auto;
+   border-top-style: dotted ;
+   border-width: 6px;
+   width: 30%;
+}
+
+table:hover {
+   color: white;
+}
+table {
+
+    color: goldenrod;
+}
+h3 {
+    margin: 0 auto 0 auto;
+   color: white;
+}
+h2 {
+   color: white;
+}
+
+hr:hover {
+    color: goldenrod;
+}
+div {
+color: red;
+}
+
+.csmed {
+    text-decoration:underline ;
+}
