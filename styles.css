@@ -5,6 +5,15 @@ body {
 
 }
 
+container {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    height: 100vh;
+    background: #046db9;
+}
+
 hr {
    color: white;
    border-style: none;
